@@ -1,0 +1,6 @@
+BOXBOX
+O    B
+B    O
+X    X
+O    B
+BXOBXO

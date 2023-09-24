@@ -1,0 +1,3 @@
+Square 1080
+Diagonal 17770
+Diagonal 548

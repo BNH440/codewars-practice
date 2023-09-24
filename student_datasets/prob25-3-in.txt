@@ -1,0 +1,6 @@
+CurrentFilmCatalog
+Hotel Transylvania (2012)
+Serendipity (2001)
+La La Land (2016)
+Hello, Dolly! (1969)
+END

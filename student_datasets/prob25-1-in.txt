@@ -1,0 +1,6 @@
+CurrentFilmCatalog
+Star Wars A New Hope (1977)
+My Little Pony The Movie (2017)
+Dune (1984)
+Dune (2021)
+END

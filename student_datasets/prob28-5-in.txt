@@ -1,0 +1,8 @@
+7
+aaabbbb
+aaabacb
+adaaacb
+adedacb
+fdedgcc
+fdddggc
+fffgggc

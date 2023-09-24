@@ -1,0 +1,4 @@
+DOPEY 1161.0m in 18.5min (3rd)
+SNEEZY 1967.4m in 18.5min (2nd)
+DOC 2115.4m in 18.5min (1st)
+GRUMPY 0.0m in 18.5min (4th)

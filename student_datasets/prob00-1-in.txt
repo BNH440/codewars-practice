@@ -1,0 +1,1 @@
+Nothing to see here.  Problem 0 doesn't read input.

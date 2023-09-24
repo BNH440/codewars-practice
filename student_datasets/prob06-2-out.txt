@@ -1,0 +1,10 @@
+Square 84
+Diagonal 13652
+Diagonal 20164
+Diagonal 324
+Diagonal 40320
+Square 40080
+Diagonal 326
+Diagonal 328
+Square 90
+Diagonal 34318

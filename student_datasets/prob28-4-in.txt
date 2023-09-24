@@ -1,0 +1,9 @@
+7
+aabbbcc
+aaaabcc
+daaabbc
+dbbbbbb
+deeebff
+dddebgf
+ddddggg
+

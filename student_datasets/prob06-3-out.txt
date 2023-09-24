@@ -1,0 +1,4 @@
+Square 10080
+Diagonal 33770
+Diagonal 4148
+Square 22302
