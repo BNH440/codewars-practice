@@ -24,7 +24,7 @@ import subprocess
 # TODO: **EDIT** these paths to point to your local JDK and python
 # Set the path to the empty string ("") if you are not using that language
 JDK_PATH = r""
-PY3_PATH = r"/opt/homebrew/bin/python3"
+PY3_PATH = r"/home/codespace/.python/current/bin/python"
 
 # **DO NOT** edit these constants
 STUDENT_DIR = "student_datasets"
